@@ -1,4 +1,5 @@
 import requests
+import json
 
 #MTG API Documentation
 #URL: https://docs.magicthegathering.io/#documentationgetting_started
@@ -11,4 +12,4 @@ response = requests.get(url)
 
 # Print the response
 response_json = response.json()
-print(response_json)
+print(json.dumps(response_json, indent=4))
