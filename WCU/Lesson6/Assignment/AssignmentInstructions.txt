@@ -1,0 +1,14 @@
+Now is a great time to implement some of the more useful features of Python classes and finish our Time class. 
+Be sure that your class has the following:
+
+The two underscore characters for its variable names to restrict access as much as possible.
+
+A getter and setter function for each of the hour, minute, and second variables. Be sure the set 
+functions do the error checking necessary to insure valid times.
+
+A function named tick( ) that will increment the number of seconds by 1. Be aware that this function 
+will need to check to be sure that you haven't moved to the next minute or hour.
+
+When you're finished with your new and improved Time class, write a short Python program that creates 
+a Time object and works with some of the functions. Inside this program, you might consider writing a 
+loop and placing a call to the tick function to watch your time move forward.
