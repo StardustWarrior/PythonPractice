@@ -1,0 +1,6 @@
+Draw a Picture
+Use the Tkinter module and your creativity to draw a picture composed of at least five shapes. 
+Use the animation techniques described in the lesson to move at least one of the shapes on your Canvas.
+
+If you're having problems coming up with an idea of what to draw, consider making a face, drawing a house, 
+or just creating some abstract art image. Or, if you'd like to try to copy something, you can work on the following:
