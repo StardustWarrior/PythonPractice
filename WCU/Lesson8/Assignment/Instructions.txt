@@ -1,0 +1,14 @@
+Write a program that computes the average of a series of numbers entered by the user. 
+To make the program more user-friendly, store all the numbers in a list so that the user's 
+numbers can be displayed before the average appears. Have your program stop accepting values 
+when the user enters the value -999. Note that this value, -999, should not be averaged in with the other numbers.
+
+Sample output from your program might look like the following:
+Please enter a number (-999 quits): 1
+Please enter a number (-999 quits): 2
+Please enter a number (-999 quits): 3
+Please enter a number (-999 quits): 3
+Please enter a number (-999 quits): -999
+Using the numbers:
+1 2 3 3 
+The average is: 2.25
