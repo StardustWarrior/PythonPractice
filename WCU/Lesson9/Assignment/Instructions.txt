@@ -1,0 +1,4 @@
+Write a program that stores information about student test grades in a dictionary. 
+Your program should prompt the user for the student's name and score. Once the user 
+is finished entering grades, allow them to search the dictionary 
+for a particular student and print their score.
