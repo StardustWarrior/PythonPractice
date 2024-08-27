@@ -1,0 +1,8 @@
+Assignment
+Two other exception types Python gives us are the OverflowError, which happens when a floating-point number 
+(a number with a decimal point) is too big to be stored in memory, and the KeyboardInterrupt, which occurs 
+when the user presses CTRL + C.
+
+Use the following infinite loop code segment inside a try block. Write two except statements: one for each 
+of OverflowError and KeyboardInterrupt. Have the code inside your except statements print the value of number 
+so that the user will know how far the loop progressed before the exception occurred.
