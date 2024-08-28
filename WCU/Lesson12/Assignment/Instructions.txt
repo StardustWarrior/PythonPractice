@@ -1,0 +1,4 @@
+Use your knowledge of the GUI widgets you learned about in this lesson to create a program that allows 
+users to enter any text they want. When finished, users will click a Button to display the text in a Label. 
+Then they'll be able to control the font style and size. Be sure to give your users the options to make their 
+text bold and underlined and provide at least three different font sizes.
